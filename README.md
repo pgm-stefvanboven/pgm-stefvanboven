@@ -29,9 +29,10 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - 🌱 I’m currently learning the graduate degree in programming at Artevelde University College :school:
 - ⚡ Fun fact: i'm whriting :writing_hand: my own fantasy stories
 
-### my Skills 💪
+### My Skills 💪
 -------------------------------------------------------
 
+# Personal skills
 - ✔ Teamplayer
 - ✔ Social
 - ✔ Stake
@@ -39,10 +40,18 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - ✔ Customer friendly
 - ✔ Goal oriented
 - ✔ Work ethic
+
+# Spoken Languages
+- ✔ Dutch (Mother tongue)
+- ✔ English (Basic)
+
+# Programmer skills
 - ✔ Webdesign
 - ✔ Figma
 - ✔ UI/UX
 - ✔ HTML
+
+# Workpoints
 - ❗CSS (working on it)
 - ❗Javascript (working on it)
 
