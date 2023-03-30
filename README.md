@@ -11,7 +11,7 @@
 ### Contact me
 -------------------------------------------------------
 
-[📧](stefvboven2020@outlook.com) 
+📧 [stefvboven2020@outlook.com](mailto:stefvboven2020@outlook.com) 
 
 ### Info
 -------------------------------------------------------
