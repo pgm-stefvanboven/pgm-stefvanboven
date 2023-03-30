@@ -34,4 +34,18 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 
 - ✔ Teamplayer
 - ✔ Social
-- ✔ customer friendly
+- ✔ Stake
+- ✔ Perseverance
+- ✔ Customer friendly
+- ✔ Goal oriented
+- ✔ Work ethic
+- ✔ Webdesign
+- ✔ UI/UX
+- ✔ HTML
+- ❗CSS (working on it)
+- ❗Javascript (working on it)
+
+### My interests
+-------------------------------------------------------
+
+- Watching movies (i :heart: the marvel movies)
