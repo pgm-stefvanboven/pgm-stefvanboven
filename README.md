@@ -40,6 +40,7 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - ✔ Goal oriented
 - ✔ Work ethic
 - ✔ Webdesign
+- ✔ Figma
 - ✔ UI/UX
 - ✔ HTML
 - ❗CSS (working on it)
