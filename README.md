@@ -27,7 +27,7 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - 🔭 I’m currently working on my personal website and on the exercises for my education.
 - 💬 Ask me about Anything you want
 - 🌱 I’m currently learning the graduate degree in programming at Artevelde University College :school:
-- ⚡ Fun fact: i'm whriting :writing_hand: my own fantasy stories, i :heart: the marvel movies
+- ⚡ Fun fact: i'm whriting :writing_hand: my own fantasy stories
 
 ### Skills
 -------------------------------------------------------
