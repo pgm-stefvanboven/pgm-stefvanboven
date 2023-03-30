@@ -29,7 +29,7 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - 🌱 I’m currently learning the graduate degree in programming at Artevelde University College :school:
 - ⚡ Fun fact: i'm whriting :writing_hand: my own fantasy stories
 
-### Skills
+### my Skills 💪
 -------------------------------------------------------
 
 - ✔ Teamplayer
@@ -45,7 +45,13 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - ❗CSS (working on it)
 - ❗Javascript (working on it)
 
-### My interests
+### My interests ⭐
 -------------------------------------------------------
 
-- Watching movies (i :heart: the marvel movies)
+- 🎥 👀 Watching movies
+- ⭐ Favorite movies: The Marvel movies and The Twilight Saga
+- 🎧 🎵 Listen to music
+- 📖 Reading
+- ⭐ Favorite book collection: The Twilight Saga
+- 🎮 Gaming with friends
+- ✍  Whriting my own fantasy stories
