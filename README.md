@@ -32,6 +32,6 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 ### Skills
 -------------------------------------------------------
 
-✔ Teamplayer
-✔ Social
-✔ customer friendly
+- ✔ Teamplayer
+- ✔ Social
+- ✔ customer friendly
