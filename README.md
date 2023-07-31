@@ -3,7 +3,7 @@
 - Name: Stef Van Boven
 - 2️⃣0️⃣ years
 - 🎂 born on 14/06/2003.
-- 🏠 Ronse | Oudenaarde
+- 🏠 Oudenaarde | Ronse
 - Region: East Flanders
 - 🌍 Belgium
 
