@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-- Name: Stef Van Boven
+- Stef Van Boven
 - 2️⃣0️⃣ years
 - 🎂 born on 14/06/2003.
 - 🏠 Oudenaarde | Ronse
