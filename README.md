@@ -24,7 +24,7 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - 🔭 I’m currently working on my personal website and on the exercises for my education.
 - 💬 Ask me about Anything you want
 - 🌱 I’m currently learning the graduate degree in programming at Artevelde University College :school:
-- ⚡ Fun fact: i'm whriting :writing_hand: my own fantasy stories
+- ⚡ Fun fact: i'm writing :writing_hand: my own fantasy stories
 
 # My Skills 💪
 
@@ -38,7 +38,7 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - ✔ Work ethic
 
 ### My spoken languages
-- ✔ Dutch (Mother tongue)
+- ✔ Dutch (Native language)
 - ✔ English (Basic)
 
 ### Programmer skills
@@ -59,4 +59,4 @@ I'm studying :book: at Artevelde University College :school: where I'm taking th
 - 📖 Reading
 - ⭐ Favorite book collection: The Twilight Saga
 - 🎮 Gaming with friends
-- ✍  Whriting my own fantasy stories
+- ✍ Writing my own fantasy stories
