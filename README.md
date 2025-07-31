@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 - Stef Van Boven
-- 2️⃣1️⃣ years
+- 2️⃣2️⃣ years
 - 🎂 born on 14/06/2003.
 - 🏠 Oudenaarde | Ronse
 - Region: East Flanders
@@ -13,7 +13,7 @@
 - 📱 [0479777901](tel:+320497777901)
 - [LinkedIn](https://www.linkedin.com/in/stef-van-boven/)
 - [Github](https://github.com/pgm-stefvanboven)
-- [Portfolio]()
+- [Portfolio](https://stef-van-boven.netlify.app/)
 
 # Info
 
