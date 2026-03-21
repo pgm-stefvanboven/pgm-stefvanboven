@@ -13,7 +13,7 @@
 - 📱 [0479777901](tel:+320497777901)
 - [LinkedIn](https://www.linkedin.com/in/stef-van-boven/)
 - [Github](https://github.com/pgm-stefvanboven)
-- [Portfolio](https://stef-van-boven.netlify.app/)
+- [Portfolio](https://stefvanboven.netlify.app/)
 
 # Info
 
